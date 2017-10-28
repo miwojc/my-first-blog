@@ -25,7 +25,7 @@ SECRET_KEY = 'd5#prkp7(^f9^(two(4s5!_$)cti33dwe%j%y0&+&yb0&69j#3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['miwo.pythonanywhere.com']
 
 
 # Application definition
